@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+tensorflow
+keras
+opencv-python
+scikit-learn
+ipywidgets
+graphviz
+pmdarima
+pyttsx3
+dlib
+ipython
