@@ -1,5 +1,5 @@
 
-# AI-Powered Notebook Collection 🧠🐾⚙️
+# DEX MACHINE LEARNING 1.01 projects
 
 This repository contains a collection of Jupyter notebooks forming an AI-driven project. It seems to focus on image recognition (such as cat vs dog classification), fuel consumption analysis, and possibly an automated feeding system. Each notebook has a specific role in this ecosystem.
 
@@ -44,10 +44,5 @@ See the `requirements.txt` file for a full list of Python dependencies.
 - Potential IoT integration (e.g., feeders)
 - Voice output using `pyttsx3`
 
-## 📬 Contact
-
-For questions, suggestions, or collaborations, feel free to open an issue or submit a pull request!
-
 ---
 
-Happy coding! 🐍🚀
