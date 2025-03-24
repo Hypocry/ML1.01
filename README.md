@@ -41,8 +41,7 @@ See the `requirements.txt` file for a full list of Python dependencies.
 
 - Image classification using deep learning
 - Data analysis for fuel/gas comparison
-- Potential IoT integration (e.g., feeders)
-- Voice output using `pyttsx3`
+- facerecognition live on doorbellcamera
 
 ---
 
